@@ -2,3 +2,4 @@ Code to read the PCF85921 I2C analogue to digital converter from the BBC micro:b
 
 Also shared on the microbit website at: https://makecode.microbit.org/_HdzbAaUY6YJf
 
+YouTube video that goes with this code: https://youtu.be/TUYz6TIoOrc
